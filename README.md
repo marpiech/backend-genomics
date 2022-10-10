@@ -1,2 +1,2 @@
 # Backend Genomics 
-## genomics, genome analysis, cloud, kubernetes, homelab and other things
+My notes on genomics, genome analysis, cloud, kubernetes, homelab and other things
