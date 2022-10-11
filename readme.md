@@ -6,3 +6,5 @@ My notes on genomics, genome analysis, cloud, kubernetes, homelab and other thin
 
 > __Note__  
 > This is a note.
+
+$\textcolor{green}{\text{Hello}}$ World
