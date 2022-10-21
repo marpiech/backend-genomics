@@ -2,7 +2,7 @@
 ![#f03c15](https://via.placeholder.com/25/b4dcea/b4dcea.png) `#b4dcea` `Spun Sugar`  
 ![#f03c15](https://via.placeholder.com/25/fac8c3/fac8c3.png) `#fac8c3` `Gossamer Pink`  
 ![#f03c15](https://via.placeholder.com/25/c43362/c43362.png) `#c43362` `Innuendo`  
-![#f03c15](https://via.placeholder.com/25/005898/005898.png) `#c005898` `Skydiver`  
+![#f03c15](https://via.placeholder.com/25/005898/005898.png) `#005898` `Skydiver`  
 ![#f03c15](https://via.placeholder.com/25/fdc0re/fdc0re.png) `#fdc0re` `Daffodil`  
 ![#f03c15](https://via.placeholder.com/25/81a0ba/81a0ba.png) `#81a0ba` `Glacier Lake`  
 ![#f03c15](https://via.placeholder.com/25/00656e/00656e.png) `#00656e` `Harbor Blue`  
