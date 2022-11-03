@@ -1,5 +1,3 @@
-OMP_NUM_THREADS = 1
-
 import numpy as np
 from scipy.signal import find_peaks
 
